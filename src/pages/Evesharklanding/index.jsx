@@ -211,7 +211,7 @@ export default function EvesharklandingPage() {
                 </div>
               </div>
 
-              <div className="flex flex-row justify-start items-start w-full mt-5 gap-[35px] max-w-[1341px]">
+              <div className="flex flex-row justify-start items-start w-full mt-20 gap-[35px] max-w-[1341px]">
                 <div className="h-[270px] w-[48%] mb-2.5 relative">
                   <Heading
                     size="4xl"
@@ -237,8 +237,8 @@ export default function EvesharklandingPage() {
                     meticulously craft each event into a memorable spectacle,
                     ensuring every detail is handled with precision and care.
                   </Text>
-                  <div className="flex flex-row justify-between items-center w-[62%] h-full left-0 bottom-0 top-0 m-auto absolute">
-                    <div className="h-[176px] w-[4px] bg-gradient" />
+                  <div className="flex flex-row justify-between items-center w-[62%] h-full left-0 bottom-0 top-0 m-auto absolute" style={{ top: '60px' }}>
+                    <div className="h-[176px] w-[4px] bg-gradient"/>
                     <div className="flex flex-row justify-between items-center w-auto gap-[33px]">
                       <Heading
                         size="lg"
