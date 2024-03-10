@@ -99,7 +99,7 @@ export default function EvesharklandingPage() {
               </div>
             </div>
             <div className="flex flex-col items-center justify-start w-full">
-              <div className="h-[1422px] w-full relative">
+              <div className="h-[1200px] w-full relative">
                 {/* Section 1: Images and Slider */}
                 <div className="flex flex-row justify-center items-start w-full h-full left-0 bottom-0 right-0 top-0 m-auto absolute">
                   <div className="h-[1000px] w-[30%] relative">
@@ -159,7 +159,7 @@ export default function EvesharklandingPage() {
 
                 {/* Section 2: About Eveshark */}
                 <div className="flex flex-col items-start justify-start w-full h-full m-auto absolute mt-10">
-                  <div className="flex flex-row justify-start gap-[17px]">
+                  <div className="flex flex-col justify-start gap-[17px]">
                     <div className="h-[4px] w-[43%] bg-blue_gray-400_af" />
                     <div className="h-[4px] w-[43%] bg-blue_gray-400_af" />
                   </div>
@@ -170,7 +170,7 @@ export default function EvesharklandingPage() {
                     <Heading
                       size="3xl"
                       as="h2"
-                      className="w-[94%] mt-[223px] ml-[37px] !font-kanit"
+                      className="mt-[400px] mr-[60px]"
                     >
                       <span className="text-gray-900_01">About</span>
                       <span className="text-deep_purple-400">Eveshark</span>
