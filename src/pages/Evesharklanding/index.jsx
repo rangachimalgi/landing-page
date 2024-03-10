@@ -129,7 +129,7 @@ export default function EvesharklandingPage() {
                       items={[
                         <React.Fragment key={Math.random()}>
                           <Img
-                            src="images/img_image_66.png"
+                            src="images/img01.jpeg"
                             alt="imagesixtysix"
                             className="mx-2.5 object-cover"
                             style={{
@@ -141,7 +141,7 @@ export default function EvesharklandingPage() {
                         </React.Fragment>,
                         <React.Fragment key={Math.random()}>
                           <Img
-                            src="images/img_image_67.png"
+                            src="images/img01.jpeg"
                             alt="imagesixtyseven"
                             className="mx-2.5 object-cover"
                             style={{
